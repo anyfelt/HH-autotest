@@ -8,7 +8,7 @@
 
 
 По сути ваши шаги таковы:
-1.1 Скачайте LM Studio: https://lmstudio.ai/;
+1.1 Скачайте LM Studio: https://lmstudio.ai/; при необходимости node.js - https://nodejs.org/en
 В LM Studio выберите и загрузите любую языковую модель (например, Mistral, Llama, GPT-3 и т.д.);
 После загрузки — выберите модель вверху и нажмите “Launch” или “Загрузить модель”;
 
