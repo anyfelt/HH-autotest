@@ -14,7 +14,8 @@
 
 1.2 Перейдите на вкладку Developer (или “Разработка”) — это иконка консоли;
 В левом верхнем углу включите Status: Running; 
-Запомните адрес: должен быть http://127.0.0.1:1234 или localhost:1234 (если порт другой — меняйте в скрипте); <img width="286" height="60" alt="изображение" src="https://github.com/user-attachments/assets/b40c8769-d990-49ac-9586-d6598fb430c0" />
+Запомните адрес: должен быть http://127.0.0.1:1234 или localhost:1234 (если порт другой — меняйте в скрипте); 
+<img width="286" height="60" alt="изображение" src="https://github.com/user-attachments/assets/b40c8769-d990-49ac-9586-d6598fb430c0" />
 
 
 2.1 Заходим в браузер, скачиваем расширение TamperMonkey. Я делал в firefox, но в других браузерах всё то же самое. ссылка - https://addons.mozilla.org/ru/firefox/addon/tampermonkey/
@@ -28,6 +29,7 @@
 Далее заходим в эту же директорию командой cd (полный синтаксис в командной строке - cd C:\Users\User\CORS) и прописываем по очереди команды:
 npm install express cors http-proxy-middleware
 node corsproxy.js
+
 <img width="326" height="86" alt="изображение" src="https://github.com/user-attachments/assets/2a569bcb-38de-47bc-89bb-425e50549d49" />
 
 2.3 node.corsproxy.js запущен. Сворачиваем окошко консоли, не закрываем.
