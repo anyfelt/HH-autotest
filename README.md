@@ -27,9 +27,8 @@
 
 2.2 Кидаем файл CORSproxy.js из данного репозитория в удобную директорию. Для примера будет C:\Users\User\CORS.
 Далее заходим в эту же директорию командой cd (полный синтаксис в командной строке - cd C:\Users\User\CORS) и прописываем по очереди команды:
-npm install express cors http-proxy-middleware
-
-node corsproxy.js
+cmd: npm install express cors http-proxy-middleware
+cmd: node corsproxy.js
 
 <img width="326" height="86" alt="изображение" src="https://github.com/user-attachments/assets/2a569bcb-38de-47bc-89bb-425e50549d49" />
 
