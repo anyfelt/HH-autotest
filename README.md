@@ -21,7 +21,7 @@
 
 <img width="574" height="198" alt="изображение" src="https://github.com/user-attachments/assets/9fc770b2-29ed-47a7-82ee-47074b9a5b48" />
 
-Запомните адрес: должен быть http://127.0.0.1:1234 или localhost:1234 (если порт другой — меняйте в скрипте); 
+Запомните адрес, он может пригодиться в CORSproxy.js: должен быть http://127.0.0.1:1234 или localhost:1234 (если порт другой — меняйте в скрипте); 
 
 
 <img width="286" height="60" alt="изображение" src="https://github.com/user-attachments/assets/b40c8769-d990-49ac-9586-d6598fb430c0" />
