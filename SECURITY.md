@@ -1,22 +1,15 @@
-# Security Policy
+# Политика безопасности
 
-## Supported Versions
+⚠️ Заявление об отказе от ответственности: Владелец данного репозитория не несет ответственность за любое незаконное использование содержимого, представленного в этом репозитории. Содержимое предоставляется исключительно в информационных и образовательных целях, и ответственность за любые действия, предпринятые пользователями данного репозитория, лежит на самих пользователях. Получая доступ к этому репозиторию, вы соглашаетесь оградить его владельца от любых претензий, убытков или расходов, связанных с использованием предоставленной информации ⚠️
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+## Поддерживаемые версии
 
 | Version | Supported          |
 | ------- | ------------------ |
-| master  | :white_check_mark: |
+| v 0.9   | :white_check_mark: |
 
-## Reporting a Vulnerability
+## Наябедничать на репозиторий
 
 
 ### Если есть что предложить, но чтобы оно не утекло в публичный доступ
-(проблемы с безопасностью, прочее), пишите в личку телеги @anyfelt
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+(проблемы с безопасностью, прочее), пишите в личку телеги **@anyfelt**
