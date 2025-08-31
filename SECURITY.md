@@ -6,7 +6,7 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| v 0.9   | :white_check_mark: |
+| v 0.91  | :white_check_mark: |
 
 ## Наябедничать на репозиторий
 
