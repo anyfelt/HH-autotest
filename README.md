@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/5de2a1d6-2402-4817-8460-f5d11e3eaf83
 ### Скачайте и запустите LM Studio  
 1.1 Перейдите на https://lmstudio.ai/ и скачайте последнюю версию LM Studio.  
 
-1.2 Откройте приложение, выберите и установите любую языковую модель (Mistral, Llama, GPT-3 и др.) и **нажмите на неё в выпадающем списке**.
+1.2 Откройте приложение, выберите и установите любую языковую модель (Mistral, Llama, GPT и др.) и **нажмите на неё в выпадающем списке**.
 
    <img width="698" height="263" alt="изображение" src="https://github.com/user-attachments/assets/a2612d3f-5561-450b-8296-398a2e6e2dd8" />
    
